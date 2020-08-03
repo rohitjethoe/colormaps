@@ -2,7 +2,7 @@
 Color Maps is a pallete generating application for designs.
 
 ### :lightning: Live Version
-The live version of profilegrabber is hosted on netlify and you can find it at <br>
+The live version of colormaps is hosted on netlify and you can find it at <br>
 [https://colormaps.netlify.app](https://colormaps.netlify.app)
 
 ### :star: Features
